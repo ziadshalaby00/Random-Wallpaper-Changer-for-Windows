@@ -4,6 +4,9 @@ A lightweight Windows application that automatically changes your desktop wallpa
 
 The program allows you to select a folder containing your wallpapers, then each time the system starts, it randomly chooses a new wallpaper **without repeating any previously used image** until all wallpapers in the folder have been used once. After completing the full cycle, the process starts over again.
 
+<img width="563" height="308" alt="Screenshot_1" src="https://github.com/user-attachments/assets/75c24596-0327-41de-b0d2-90fb050aea36" />
+
+
 ## Features
 
 * Automatically runs on Windows startup
