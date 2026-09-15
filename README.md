@@ -23,12 +23,5 @@ The program allows you to select a folder containing your wallpapers, then each 
 4. Click **Enable**
 5. Every time Windows starts, a new random wallpaper will be applied automatically
 
----
-
-## 📄 License
-
-Developed entirely by [Ziad Shalaby](https://github.com/ziadshalaby00).
-
-This project is licensed under the **MIT License**.
 
 ---
